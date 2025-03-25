@@ -48,6 +48,10 @@ DeepLX 免费翻译API**腾讯云函数部署版**，与[原项目DeepLX](https:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLegendLeo%2Fdeeplx-serverless)
 
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fzhangbin0301%2Fdeeplx-serverless)
+
+
 ### How to use | 如何使用
 
 建议搭配浏览器插件沉浸式翻译一同使用，使用的时候需要把访问路径里的 `/release` 部分替换为翻译路径`translate`
